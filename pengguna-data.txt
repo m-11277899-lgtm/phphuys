@@ -1,0 +1,6 @@
+pengguna-data.txt
+
+1  4441|azman|123abc|
+2  5551|azmin|123abc|
+3  6661|azamn|123abc|
+4  7771|azmii|123abc|
